@@ -1,4 +1,4 @@
-# AI Text Summarizer (LLaMA 3 + Groq)
+# LLM Document Summarizer (LLaMA 3 + Groq)
 
 ## Live Demo
 
